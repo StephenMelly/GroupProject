@@ -109,7 +109,7 @@ body {
 }
 
 main {
-  background: radial-gradient(ellipse farthest-corner at center top, #f1a71d, #e5e90e);
+  background: radial-gradient(ellipse farthest-corner at center top, #f5ac1c, #e5e90e);
   height: 100%;
   min-height: 20em;
   box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.8);
