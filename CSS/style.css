@@ -120,3 +120,28 @@ main {
   -webkit-box-pack: center;
           justify-content: center;
 }
+
+.menu2 {
+  position: relative;
+  box-shadow: 0 0.5em 2em rgba(0, 0, 0, 0.5);
+  background: black;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 0.25em;
+  font-size: 1.5em;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.menu2 ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu2 li {
+  display: inline;
+}
+
+
