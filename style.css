@@ -660,3 +660,11 @@ div.card-newstock {
   margin-top: 150px;
   padding: 50px;
 }
+
+/*bring cards to front*/
+.card {
+z-index: -2;
+}
+.card:hover {
+z-index: 0 !important;
+}
